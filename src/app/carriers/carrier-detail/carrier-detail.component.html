@@ -1,0 +1,7 @@
+<h3>Carriers</h3>
+
+<div class="shipping-item" *ngFor="let carrier of carriersList | async">
+  <span>{{ carrier.C_CODE }}</span>
+  <span>{{ carrier.C_MODE }}</span>
+  <span>{{ carrier.C_NAME }}</span>
+</div>

@@ -29,4 +29,8 @@ export class CartService {
   getPorts() {
     return this.http.get('/assets/ports.json');
   }
+
+  getCarriers() {
+    return this.http.get('./assets/carriers.json');
+  }
 }

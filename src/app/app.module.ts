@@ -13,6 +13,7 @@ import { CartComponent } from './cart/cart/cart.component';
 import { ShippingComponent } from './shipping/shipping/shipping.component';
 import { CustomerDetailComponent } from './customer/customer-detail/customer-detail.component';
 import { PortsListComponent } from './ports/ports-list/ports-list.component';
+import { CarrierDetailComponent } from './carriers/carrier-detail/carrier-detail.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { PortsListComponent } from './ports/ports-list/ports-list.component';
     ShippingComponent,
     CustomerDetailComponent,
     PortsListComponent,
+    CarrierDetailComponent,
   ],
   imports: [
     BrowserModule,
