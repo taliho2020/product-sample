@@ -15,6 +15,7 @@ export class CartComponent implements OnInit {
   constructor(private cartService: CartService, private fb: FormBuilder) {
     this.checkoutForm = this.fb.group({
       name: '',
+      company: '',
       address: '',
       state: '',
       country: '',
