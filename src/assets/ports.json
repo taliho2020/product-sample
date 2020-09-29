@@ -1,0 +1,4429 @@
+[{
+    "p_id": "AAE",
+    "p_name": "AAE",
+    "p_nation": "ALGERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ABD",
+    "p_name": "ABD",
+    "p_nation": "IRAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ABJ",
+    "p_name": "ABIDJAN, COTED LVORE",
+    "p_nation": "COTED LVORE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ABZ",
+    "p_name": "ABEERDEEN, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ACC",
+    "p_name": "ACCRA,  GHANA",
+    "p_nation": "GHANA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ADA",
+    "p_name": "ADANA, TURKEY",
+    "p_nation": "TURKEY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ADD",
+    "p_name": "ADDIS ABABA, ETHIOPIA",
+    "p_nation": "ETHIOPIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ADE",
+    "p_name": "ADEN, YEMEN",
+    "p_nation": "YEMEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ADL",
+    "p_name": "AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AGP",
+    "p_name": "MALAGA, SPAIN & CANARY ISLANDS",
+    "p_nation": "SPAIN & CANARY ISLAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AGS",
+    "p_name": "AUGUSTA, GABON",
+    "p_nation": "GABON",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AHB",
+    "p_name": "ABHA, SAUDI ARABIA",
+    "p_nation": "SAUDI ARABIA",
+    "p_portno": "48900"
+  },
+  {
+    "p_id": "AHO",
+    "p_name": "ALGHERO, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AJA",
+    "p_name": "AJACCIO, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AJU",
+    "p_name": "ARACAJU, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AKJ",
+    "p_name": "ASAHIKAWA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AKL",
+    "p_name": "AUCKLAND,NEW ZEALAND",
+    "p_nation": "NEW ZEALAND",
+    "p_portno": "61401"
+  },
+  {
+    "p_id": "ALA",
+    "p_name": "ALMATY, KAZAKSTAN",
+    "p_nation": "KAZAKSTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ALB",
+    "p_name": "ALBANY, NY",
+    "p_nation": "USA",
+    "p_portno": "1002 "
+  },
+  {
+    "p_id": "ALC",
+    "p_name": "ALICANTE, SPAIN&CNARY ISLANDS",
+    "p_nation": "SPAIN&CNARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ALF",
+    "p_name": "ALTA, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ALG",
+    "p_name": "ALGIERS, ALGERIA",
+    "p_nation": "ALGERIA",
+    "p_portno": "72101"
+  },
+  {
+    "p_id": "ALP",
+    "p_name": "ALEPPO, SYRIA",
+    "p_nation": "SYRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ALY",
+    "p_name": "ALEXANDRIA, EGYPT",
+    "p_nation": "EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AMA",
+    "p_name": "AMARILLO, TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AMM",
+    "p_name": "AMMAN, JORDAN",
+    "p_nation": "JORDAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AMS",
+    "p_name": "AMSTERDAM,NETHERLAND",
+    "p_nation": "NETHERLAND",
+    "p_portno": "42105"
+  },
+  {
+    "p_id": "ANC",
+    "p_name": "ANCHORAGE, AK",
+    "p_nation": "USA",
+    "p_portno": "3126 "
+  },
+  {
+    "p_id": "ANK",
+    "p_name": "ANKABA, TURKEY",
+    "p_nation": "TURKEY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ANR",
+    "p_name": "ANTWERP, BELGIUM",
+    "p_nation": "BELGIUM",
+    "p_portno": "42305"
+  },
+  {
+    "p_id": "ANU",
+    "p_name": "ANTIGUA, ANTIGUA & BARBUDA",
+    "p_nation": "ANTIGUA & BARBUDA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AOI",
+    "p_name": "ANCONA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AOJ",
+    "p_name": "AOMORI, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "APW",
+    "p_name": "APIA, SAMOA",
+    "p_nation": "SAMOA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ASB",
+    "p_name": "ASHGABAD, TURKMENISTAN",
+    "p_nation": "TURKMENISTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ASE",
+    "p_name": "ASPEN, CO",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ASM",
+    "p_name": "ASMARA, ERITREA",
+    "p_nation": "ERITREA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ASU",
+    "p_name": "ASUNCION, PARAGUAY",
+    "p_nation": "PARAGUAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ASW",
+    "p_name": "ASWAN, EGYPT",
+    "p_nation": "EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ATH",
+    "p_name": "ATHENS, GREECE",
+    "p_nation": "GREECE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ATL",
+    "p_name": "ATANTA, GA",
+    "p_nation": "USA",
+    "p_portno": "1704 "
+  },
+  {
+    "p_id": "AUG",
+    "p_name": "AUGUSTA, ME",
+    "p_nation": "USA",
+    "p_portno": "47542"
+  },
+  {
+    "p_id": "AUH",
+    "p_name": "ABU DHABI, U.A.E.",
+    "p_nation": "U.A.E.",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "AUS",
+    "p_name": "AUSTIN, TX",
+    "p_nation": "USA",
+    "p_portno": "5506 "
+  },
+  {
+    "p_id": "AXT",
+    "p_name": "AKITA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BAH",
+    "p_name": "BAHRAIN, BAHRAIN",
+    "p_nation": "BAHRAIN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BAK",
+    "p_name": "BAKU, AZERBAIJAN",
+    "p_nation": "AZERBAIJAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BBN",
+    "p_name": "BARIO, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BBZ",
+    "p_name": "ZAMBEZI, AZMBIA",
+    "p_nation": "AZMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BCN",
+    "p_name": "BARCELONA, SPAIN",
+    "p_nation": "SPAIN",
+    "p_portno": "47061"
+  },
+  {
+    "p_id": "BDA",
+    "p_name": "BERMUDA, BERMUDA",
+    "p_nation": "BERMUDA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BDR",
+    "p_name": "BRIDGEPORT, CT",
+    "p_nation": "USA",
+    "p_portno": "0410 "
+  },
+  {
+    "p_id": "BDS",
+    "p_name": "BRINDISI, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEB",
+    "p_name": "BENBECULA, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEG",
+    "p_name": "BELGRADE, YUGOSLAVIA",
+    "p_nation": "YUGOSLAVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEL",
+    "p_name": "BELEM PA, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEN",
+    "p_name": "BENGHAZI, LIBYANARABJAMAHIRIYA",
+    "p_nation": "LIBYANARABJAMAHIRIYA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BER",
+    "p_name": "BERLIN, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BES",
+    "p_name": "BREST, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEW",
+    "p_name": "BEIRA, MOZAMBIOQUE",
+    "p_nation": "MOZAMBIOQUE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BEY",
+    "p_name": "BEIRUT, LEBANON",
+    "p_nation": "LEBANON",
+    "p_portno": "50401"
+  },
+  {
+    "p_id": "BFN",
+    "p_name": "BLOEMFONTEIN, SOUTH AFRICA",
+    "p_nation": "SOUTH AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BFS",
+    "p_name": "BELFAST, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BGA",
+    "p_name": "BUCARAMANGA, COLOMBIA",
+    "p_nation": "COLOMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BGF",
+    "p_name": "BANGUI,CENTRAL AFRICANREPUBLIC",
+    "p_nation": "CENTRAL AFRICANREPUB",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BGI",
+    "p_name": "BARBADOS, BARBADOS",
+    "p_nation": "BARBADOS",
+    "p_portno": "47901"
+  },
+  {
+    "p_id": "BGM",
+    "p_name": "BINGHAMPTON, NY",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BGO",
+    "p_name": "BERGEN, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "40311"
+  },
+  {
+    "p_id": "BGW",
+    "p_name": "BAGHDAD, IRAQ",
+    "p_nation": "IRAQ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BHM",
+    "p_name": "BIRMINGHAM, AL",
+    "p_nation": "USA",
+    "p_portno": "1904 "
+  },
+  {
+    "p_id": "BHX",
+    "p_name": "BIRMINGHAM, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BHZ",
+    "p_name": "B HORIZONT MG, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BIK",
+    "p_name": "BIAK, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BIO",
+    "p_name": "BILBAO, SPAIN & CANARY ISLANDS",
+    "p_nation": "SPAIN & CANARY ISLAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BJL",
+    "p_name": "BANJUL, GAMBIA",
+    "p_nation": "GAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BJM",
+    "p_name": "BUJUMBURA, BURUNDI",
+    "p_nation": "BURUNDI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BJS",
+    "p_name": "BEIJING, P.R. CHINA",
+    "p_nation": "CHINA (MAINLAND)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BKI",
+    "p_name": "KOTA KINABALU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BKK",
+    "p_name": "BANGKOK, THAILAND",
+    "p_nation": "THAILAND",
+    "p_portno": "54901"
+  },
+  {
+    "p_id": "BKO",
+    "p_name": "BAMAKO, MALI",
+    "p_nation": "MALI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BKY",
+    "p_name": "BUKAVU, CONGO(KINSHASA)",
+    "p_nation": "CONGO(KINSHASA)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BLL",
+    "p_name": "BILLUND, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BLQ",
+    "p_name": "BOLOGNA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BLR",
+    "p_name": "BANGALORE, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BMI",
+    "p_name": "BLOOMINGTON, IL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BMM",
+    "p_name": "BITAM, GABON",
+    "p_nation": "GABON",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BNA",
+    "p_name": "NASHVILLE, TN",
+    "p_nation": "USA",
+    "p_portno": "2007 "
+  },
+  {
+    "p_id": "BNE",
+    "p_name": "BRISBANE QU, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BOD",
+    "p_name": "BORDEAUX, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BOG",
+    "p_name": "BOGOTA, COLOMBIA",
+    "p_nation": "COLOMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BOI",
+    "p_name": "BOISE, ID",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BOM",
+    "p_name": "BOMBAY, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "53312"
+  },
+  {
+    "p_id": "BOS",
+    "p_name": "BOSTON, MA",
+    "p_nation": "USA",
+    "p_portno": "0401 "
+  },
+  {
+    "p_id": "BPT",
+    "p_name": "BEAUMONT, TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BQN",
+    "p_name": "AGUADILLA,PUERTO RICO",
+    "p_nation": "PUERTO RICO",
+    "p_portno": "4901 "
+  },
+  {
+    "p_id": "BRE",
+    "p_name": "BREMEN, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "42869"
+  },
+  {
+    "p_id": "BRI",
+    "p_name": "BARI, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BRN",
+    "p_name": "BERNE, SWITZERLAND",
+    "p_nation": "SWITZERLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BRS",
+    "p_name": "BRISTOL, UNITED KIGNCOM",
+    "p_nation": "UNITED KIGNCOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BRU",
+    "p_name": "BRUSSELS, BELGIUM",
+    "p_nation": "BELGIUM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BSB",
+    "p_name": "BRASILIA DF, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BSL",
+    "p_name": "BASLE, SWITZERLAND",
+    "p_nation": "SWITZERLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BSR",
+    "p_name": "BASRA, IRAQ",
+    "p_nation": "IRAQ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BTH",
+    "p_name": "BATAM, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BTR",
+    "p_name": "BATON ROUG, LA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BTS",
+    "p_name": "BRATISLAVA",
+    "p_nation": "BRATISLAVA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BTU",
+    "p_name": "BINTULU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BTV",
+    "p_name": "BURLINGTON, VT",
+    "p_nation": "USA",
+    "p_portno": "0207 "
+  },
+  {
+    "p_id": "BUD",
+    "p_name": "BUDAPEST, HUNGARY",
+    "p_nation": "HUNGARY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BUE",
+    "p_name": "BUENOS AIRES,ARGENTI",
+    "p_nation": "ARGENTI",
+    "p_portno": "35705"
+  },
+  {
+    "p_id": "BUF",
+    "p_name": "BUFFALO, NY",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BUH",
+    "p_name": "BUCHAREST, ROMANIA",
+    "p_nation": "ROMANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BUQ",
+    "p_name": "BULAWAYO, ZIMBABWE",
+    "p_nation": "ZIMBABWE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BUS",
+    "p_name": "BUSAN, KOREAN PORT",
+    "p_nation": "KOREA",
+    "p_portno": "58023"
+  },
+  {
+    "p_id": "BWI",
+    "p_name": "BALTIMORE, MD",
+    "p_nation": "USA",
+    "p_portno": "1303 "
+  },
+  {
+    "p_id": "BWN",
+    "p_name": "BANDAR SERI B,BRUNEIDARUSSALAM",
+    "p_nation": "BRUNEIDARUSSALAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BYK",
+    "p_name": "BOUAKE, COTE D'IVOIRE",
+    "p_nation": "COTE D'IVOIRE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BZE",
+    "p_name": "BELIZE, BELIZE",
+    "p_nation": "BELIZE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BZV",
+    "p_name": "BRAZZAVILLE, CONGO(BRAZZAVILE)",
+    "p_nation": "CONGO(BRAZZAVILE)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAE",
+    "p_name": "COLUMBIA, SC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAG",
+    "p_name": "CAGLIARI, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAI",
+    "p_name": "CAIRO, EGYPT",
+    "p_nation": "EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAJ",
+    "p_name": "CANAIMA, VENEZUELA",
+    "p_nation": "VENEZUELA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAK",
+    "p_name": "AKRON/CANTON, OH",
+    "p_nation": "USA",
+    "p_portno": "4112 "
+  },
+  {
+    "p_id": "CAN",
+    "p_name": "GUANGZHOU, CHINA",
+    "p_nation": "CHINA(MAINLAND)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CAS",
+    "p_name": "CASABLANCA, MOROCCO",
+    "p_nation": "MOROCCO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CBR",
+    "p_name": "CANBERRA AC, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CCS",
+    "p_name": "CARACAS, VENEZUELAgh",
+    "p_nation": "VENEZUELAgh",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CCU",
+    "p_name": "KOLKATA, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CEB",
+    "p_name": "CEBU, PHILIPPINES",
+    "p_nation": "PHILIPPINES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CFE",
+    "p_name": "CLERMONT FERR, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CFR",
+    "p_name": "CAEN, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGB",
+    "p_name": "CUIABA MT, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGN",
+    "p_name": "COLOGNE, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGO",
+    "p_name": "ZHENGZHOU, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGP",
+    "p_name": "CHITTAGONG, BANGLADESH",
+    "p_nation": "BANGLADESH",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGQ",
+    "p_name": "CHANGCHUN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGR",
+    "p_name": "CAM GRANDE MS, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CHA",
+    "p_name": "CHATTANOOG, TN",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CHC",
+    "p_name": "CHRISTCHURCH, NEW ZEALAND",
+    "p_nation": "NEW ZEALAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CHI",
+    "p_name": "CHICAGO, IL",
+    "p_nation": "USA",
+    "p_portno": "3901 "
+  },
+  {
+    "p_id": "CHS",
+    "p_name": "CHARLESTON, SC",
+    "p_nation": "USA",
+    "p_portno": "1601 "
+  },
+  {
+    "p_id": "CID",
+    "p_name": "CEDAR RAPIDS, IA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CIP",
+    "p_name": "CHIPATA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CJU",
+    "p_name": "CHEJU, S.KOREA",
+    "p_nation": "S.KOREA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CKG",
+    "p_name": "CHONGQING, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CKR",
+    "p_name": "DAKAR, SENEGAL",
+    "p_nation": "SENEGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CKY",
+    "p_name": "CONAKRY, GUINEA",
+    "p_nation": "GUINEA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CLE",
+    "p_name": "CLEVELAND, OH",
+    "p_nation": "USA",
+    "p_portno": "4101 "
+  },
+  {
+    "p_id": "CLO",
+    "p_name": "CALI, COLOMBIA",
+    "p_nation": "COLOMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CLT",
+    "p_name": "CHARLOTTE, ND",
+    "p_nation": "USA",
+    "p_portno": "1512 "
+  },
+  {
+    "p_id": "CLY",
+    "p_name": "CALVI,CORSICA,FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CMB",
+    "p_name": "COLOMBO, SRI LANKA",
+    "p_nation": "SRI LANKA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CMF",
+    "p_name": "CHAMBERY, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CMH",
+    "p_name": "COLUMBUS, OH",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CNK",
+    "p_name": "DNEPROPETROVS, UKRAINE",
+    "p_nation": "UKRAINE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CNS",
+    "p_name": "CAIRNS QL, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CNX",
+    "p_name": "CHIANG MAI, THAILAND",
+    "p_nation": "THAILAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "COO",
+    "p_name": "COTONOU, BENIN",
+    "p_nation": "BENIN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "COR",
+    "p_name": "CORODOBA CD, CONGO",
+    "p_nation": "CONGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "COU",
+    "p_name": "COLUMBIA, MO",
+    "p_nation": "USA",
+    "p_portno": "1604 "
+  },
+  {
+    "p_id": "CPH",
+    "p_name": "COPENHAGEN, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "40948"
+  },
+  {
+    "p_id": "CPT",
+    "p_name": "CAPE TOWN, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "79101"
+  },
+  {
+    "p_id": "CPV",
+    "p_name": "CAMPINA GR PB, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CRP",
+    "p_name": "CORPUS CH, TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CRV",
+    "p_name": "CROTONE, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CRW",
+    "p_name": "CHARLESTON, WV",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CSG",
+    "p_name": "COLUMBUS, GA",
+    "p_nation": "USA",
+    "p_portno": "4103 "
+  },
+  {
+    "p_id": "CTA",
+    "p_name": "CATANIA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CTM",
+    "p_name": "CHETUMAL, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CTU",
+    "p_name": "CHENGDU, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CUN",
+    "p_name": "CANCUN, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "20162"
+  },
+  {
+    "p_id": "CUR",
+    "p_name": "CURACAO, NETHERLANDS ANTILLES",
+    "p_nation": "NETHERLANDS ANTILLES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CVG",
+    "p_name": "CINCINNATI, OH",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CWB",
+    "p_name": "CURITIBA PR, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CWL",
+    "p_name": "CARDIFF, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CZL",
+    "p_name": "CONSTANTINE, ALGERIA",
+    "p_nation": "ALGERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAC",
+    "p_name": "DHAKA, BANGLADESH",
+    "p_nation": "BANGLADESH",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAD",
+    "p_name": "DA HANG VIETNAM",
+    "p_nation": "DA HANG VIETNAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAL",
+    "p_name": "DALLAS, TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAM",
+    "p_name": "DAMASCUS, SYRIA",
+    "p_nation": "SYRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAR",
+    "p_name": "DAR ES SALAAM, TANZANIA",
+    "p_nation": "TANZANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DAY",
+    "p_name": "DAYTON, OH",
+    "p_nation": "USA",
+    "p_portno": "4104 "
+  },
+  {
+    "p_id": "DBV",
+    "p_name": "DUBROVNIK, CROATIA",
+    "p_nation": "CROATIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DDG",
+    "p_name": "DAN DONG, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DEL",
+    "p_name": "DELHI, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DEN",
+    "p_name": "DENVER, CO",
+    "p_nation": "USA",
+    "p_portno": "3307 "
+  },
+  {
+    "p_id": "DFW",
+    "p_name": "DALLAS FT. WORTH, TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DHA",
+    "p_name": "DHAHRAN, SAUDI ARABIA",
+    "p_nation": "SAUDI ARABIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DIR",
+    "p_name": "DIRE DAWA ETHIOPIA",
+    "p_nation": "DIRE DAWA ETHIOPIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DLA",
+    "p_name": "DOUALA, CAMEROON",
+    "p_nation": "CAMEROON",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DLC",
+    "p_name": "DALIAN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DMM",
+    "p_name": "DAMMAM, SAUDI ARAVIA",
+    "p_nation": "SAUDI ARAVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DOH",
+    "p_name": "DOHA, QATAR",
+    "p_nation": "QATAR",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DOM",
+    "p_name": "DOMINICA,WEST INDIES",
+    "p_nation": "WEST INDIES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DPS",
+    "p_name": "DENPASAR BALI, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DRS",
+    "p_name": "DRESDEN, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DRW",
+    "p_name": "DARWIN NT, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DSM",
+    "p_name": "DES MOINES,IA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DTM",
+    "p_name": "DORTMUND, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DTT",
+    "p_name": "DETROIT, MI",
+    "p_nation": "USA",
+    "p_portno": "3801 "
+  },
+  {
+    "p_id": "DUB",
+    "p_name": "DUBLIN, IRELAND",
+    "p_nation": "IRELAND",
+    "p_portno": "41911"
+  },
+  {
+    "p_id": "DUR",
+    "p_name": "DURBAN, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "79113"
+  },
+  {
+    "p_id": "DUS",
+    "p_name": "DUESSELDORF, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DXB",
+    "p_name": "DUBAI, U.A.E.",
+    "p_nation": "U.A.E.",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DYU",
+    "p_name": "DUSHANBE, TAJIKISTAN",
+    "p_nation": "TAJIKISTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DZA",
+    "p_name": "DZAOUDZI, MAYOTTE",
+    "p_nation": "MAYOTTE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EAS",
+    "p_name": "SAN SEBASTIAN, SPAIN",
+    "p_nation": "SPAIN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EBB",
+    "p_name": "ENTEBBE, UGANDA",
+    "p_nation": "UGANDA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EBJ",
+    "p_name": "ESBJERG, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EDI",
+    "p_name": "EDINBURGH, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "41675"
+  },
+  {
+    "p_id": "EIN",
+    "p_name": "EINDHOVEN, NETHERLANDS",
+    "p_nation": "NETHERLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ELP",
+    "p_name": "EL PASO, TX",
+    "p_nation": "USA",
+    "p_portno": "2402 "
+  },
+  {
+    "p_id": "ELS",
+    "p_name": "EAST LONDON, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EMA",
+    "p_name": "EAST MIDLANDS, UNITED KINGDOM",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ERF",
+    "p_name": "ERFURT, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ERI",
+    "p_name": "ERIE, PA",
+    "p_nation": "USA",
+    "p_portno": "4106 "
+  },
+  {
+    "p_id": "ESR",
+    "p_name": "EL SALVADOR, CHILE",
+    "p_nation": "CHILE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ETZ",
+    "p_name": "METZ/NANCY, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EUG",
+    "p_name": "EUGENE, OR",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EVN",
+    "p_name": "YEREVAN, ARMENIA",
+    "p_nation": "ARMENIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "EWR",
+    "p_name": "NEWARK INT'L, NJ",
+    "p_nation": "USA",
+    "p_portno": "4601 "
+  },
+  {
+    "p_id": "FAI",
+    "p_name": "FAIRBANKS, AK",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FAO",
+    "p_name": "FARO, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FAR",
+    "p_name": "FARGO, ND",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FAT",
+    "p_name": "FRESNO, CA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FBM",
+    "p_name": "LUBUMBASHI, CONGO",
+    "p_nation": "CONGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FDF",
+    "p_name": "FT DE FRANCE, MARTINIQUE",
+    "p_nation": "MARTINIQUE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FDH",
+    "p_name": "FRIEDRICHSHAF, GERMANY",
+    "p_nation": "GERMANY, FED. REPUBL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FIH",
+    "p_name": "KINSHASA, CONGO",
+    "p_nation": "CONGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FKI",
+    "p_name": "KISANGANI, CONGO",
+    "p_nation": "CONGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FKJ",
+    "p_name": "FUKUI, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FKS",
+    "p_name": "FUKUSHIMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FLL",
+    "p_name": "FT LAUDER, FL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FLN",
+    "p_name": "FLORIANOPO SC, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FLR",
+    "p_name": "FLORENCE, TIALY",
+    "p_nation": "TIALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FMI",
+    "p_name": "KALEMIE, CONGO",
+    "p_nation": "CONGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FMO",
+    "p_name": "MUNSTER, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FNA",
+    "p_name": "FREETOWN, SIERRA LEONE",
+    "p_nation": "SIERRA LEONE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FNC",
+    "p_name": "FUNCHAL, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FNI",
+    "p_name": "NIMES, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FNJ",
+    "p_name": "PYONGYANG, KOREA DEMOCRATIC P",
+    "p_nation": "KOREA DEMOCRATIC P",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FNT",
+    "p_name": "FLINT, MI",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FOR",
+    "p_name": "FORTALEZA CE, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FPO",
+    "p_name": "FREEPORT, BAHAMAS",
+    "p_nation": "BAHAMAS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FRA",
+    "p_name": "FRANKFURT, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FRU",
+    "p_name": "BISHKEK, KYRGYZSTAN",
+    "p_nation": "KYRGYZSTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FUK",
+    "p_name": "FUKUOKA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GBE",
+    "p_name": "GABORONE, BOTSWANA",
+    "p_nation": "BOTSWANA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GCI",
+    "p_name": "GUERNSEY, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GDL",
+    "p_name": "GUADALAJARA, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "20100"
+  },
+  {
+    "p_id": "GDN",
+    "p_name": "GDANSK, POLAND",
+    "p_nation": "POLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GEG",
+    "p_name": "SPOKANE, WA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GIB",
+    "p_name": "GIBRALTAR, GIBRALTAL",
+    "p_nation": "GIBRALTAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GIG",
+    "p_name": "RIODE JANEIRO BRAZIL",
+    "p_nation": "RIODE JANEIRO BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GLA",
+    "p_name": "GLASGOW, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GNB",
+    "p_name": "GRENOBLE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GND",
+    "p_name": "GRENADA, GRENADA",
+    "p_nation": "GRENADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GOA",
+    "p_name": "GENOA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "47527"
+  },
+  {
+    "p_id": "GOJ",
+    "p_name": "NIZHNIYNOVGO,RUSSIANFRDERATION",
+    "p_nation": "RUSSIANFRDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GOT",
+    "p_name": "GOTHENBURG, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GRB",
+    "p_name": "GREEN BAY, WI",
+    "p_nation": "USA",
+    "p_portno": "3703 "
+  },
+  {
+    "p_id": "GRJ",
+    "p_name": "GEORGE, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GRR",
+    "p_name": "GRAND RAPIDS, MI",
+    "p_nation": "USA",
+    "p_portno": "3806 "
+  },
+  {
+    "p_id": "GRX",
+    "p_name": "GRANADA, SPAIN&CAVARY ISLANDS",
+    "p_nation": "SPAIN&CAVARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GRZ",
+    "p_name": "GRAZ, AUSTRIA",
+    "p_nation": "AUSTRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GSO",
+    "p_name": "GREENSBORO,NC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GSP",
+    "p_name": "GREENVILLE, SC",
+    "p_nation": "USA",
+    "p_portno": "2011 "
+  },
+  {
+    "p_id": "GUA",
+    "p_name": "GUATEMALA CITY, GUATEMALA",
+    "p_nation": "GUATEMALA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GUM",
+    "p_name": "GUAM, GUAM",
+    "p_nation": "GUAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GVA",
+    "p_name": "GENEVA, SWITZERLAND",
+    "p_nation": "SWITZERLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GYE",
+    "p_name": "GUAYAQUIL, ECUADOR",
+    "p_nation": "ECUADOR",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "GYN",
+    "p_name": "GOIANIA GO, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HAJ",
+    "p_name": "HANOVER, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HAM",
+    "p_name": "HAMBURG, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HAN",
+    "p_name": "HANOI, VIET NAM",
+    "p_nation": "VIET NAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HAR",
+    "p_name": "HARRISBURG,PA",
+    "p_nation": "USA",
+    "p_portno": "1109 "
+  },
+  {
+    "p_id": "HAV",
+    "p_name": "HAVANA, CUBA",
+    "p_nation": "CUBA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HDY",
+    "p_name": "HAT YAI, THAILAND",
+    "p_nation": "THAILAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HEL",
+    "p_name": "HELSINKI, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HFD",
+    "p_name": "HARTFORD, CT",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HGA",
+    "p_name": "HARGEISA, SOMALIA",
+    "p_nation": "SOMALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HGH",
+    "p_name": "HANGZHOU, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HHH",
+    "p_name": "HHHTEST",
+    "p_nation": "HHHTEST",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HIJ",
+    "p_name": "HIROSHIMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HKD",
+    "p_name": "HAKODATE, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HKG",
+    "p_name": "HONG KONG",
+    "p_nation": "HONG KONG",
+    "p_portno": "58201"
+  },
+  {
+    "p_id": "HKT",
+    "p_name": "PHUKET, THAILAND",
+    "p_nation": "THAILAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HNL",
+    "p_name": "HONOLULU, HI",
+    "p_nation": "USA",
+    "p_portno": "3201 "
+  },
+  {
+    "p_id": "HOD",
+    "p_name": "HODEIDAH, YEMEN",
+    "p_nation": "YEMEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HOU",
+    "p_name": "HOUSTON, TX",
+    "p_nation": "USA",
+    "p_portno": "5301 "
+  },
+  {
+    "p_id": "HRB",
+    "p_name": "HARBIN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HRE",
+    "p_name": "HARARE, ZIMBABWE",
+    "p_nation": "ZIMBABWE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HSV",
+    "p_name": "HUNTSVILLE, AL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "HUY",
+    "p_name": "HUMBERSIDE, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IAD",
+    "p_name": "DULLES,WASHINGTON,DC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IAH",
+    "p_name": "INTERCONT,HOUSTON,TX",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ICN",
+    "p_name": "INCHEON AIRPORT",
+    "p_nation": "KOREA",
+    "p_portno": "58029"
+  },
+  {
+    "p_id": "ICT",
+    "p_name": "WICHITA, KS",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IEV",
+    "p_name": "KIEV, UKRAINE",
+    "p_nation": "UKRAINE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IGU",
+    "p_name": "IGUASSU FA PR, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IKT",
+    "p_name": "IRKUTSK, RUSSIAN FEDERATION",
+    "p_nation": "RUSSIAN FEDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ILM",
+    "p_name": "WILMINGTON, NC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IND",
+    "p_name": "INDIANAPOLIS, IN",
+    "p_nation": "USA",
+    "p_portno": "4110 "
+  },
+  {
+    "p_id": "INN",
+    "p_name": "INNSBRUCK, AUSTIRA",
+    "p_nation": "AUSTIRA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IOM",
+    "p_name": "ISLE OF MAN, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IPH",
+    "p_name": "IPOH, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ISB",
+    "p_name": "ISLAMABAD, PAKISTAN",
+    "p_nation": "PAKISTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IST",
+    "p_name": "ISTANBUL, TURKEY",
+    "p_nation": "TURKEY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IVL",
+    "p_name": "IVALO, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "IZM",
+    "p_name": "IZMIR, TURKEY",
+    "p_nation": "TURKEY",
+    "p_portno": "48939"
+  },
+  {
+    "p_id": "JAK",
+    "p_name": "JACKSONVIL, FL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JAX",
+    "p_name": "JACKSONVILLE, FL",
+    "p_nation": "USA",
+    "p_portno": "1803 "
+  },
+  {
+    "p_id": "JED",
+    "p_name": "JEDDAH, SAUDI ARABIA",
+    "p_nation": "SAUDI ARABIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JER",
+    "p_name": "JERSEY, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JFK",
+    "p_name": "JFK INT'L AIRPORT",
+    "p_nation": "UNITED STATES",
+    "p_portno": "4701 "
+  },
+  {
+    "p_id": "JHB",
+    "p_name": "JOHOR BAHRU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JIB",
+    "p_name": "DJIBOUTI, DJIBOUTI",
+    "p_nation": "DJIBOUTI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JKG",
+    "p_name": "JONKOPING, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JKT",
+    "p_name": "JAKARTA, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "56033"
+  },
+  {
+    "p_id": "JNB",
+    "p_name": "JOHANNESBURG, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JOE",
+    "p_name": "JOENSUU, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JOI",
+    "p_name": "JOINVILLE SC, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JPA",
+    "p_name": "JOA PESSOA PB, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "JRO",
+    "p_name": "KILIMANJARO, TANZANIA",
+    "p_nation": "TANZANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KAA",
+    "p_name": "KASAMA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KAN",
+    "p_name": "KANO, NIGERIA",
+    "p_nation": "NIGERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KBL",
+    "p_name": "KABUL, AFGHANISTAL",
+    "p_nation": "AFGHANISTAL",
+    "p_portno": "40301"
+  },
+  {
+    "p_id": "KBR",
+    "p_name": "KOTA, BHARU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KCH",
+    "p_name": "KUCHING, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KEE",
+    "p_name": "KEELUNG, TAIWAN               ",
+    "p_nation": "CHINA(TAIWAN)       ",
+    "p_portno": "58301"
+  },
+  {
+    "p_id": "KGD",
+    "p_name": "KALININGRAD, RUSSIANFEDERATION",
+    "p_nation": "RUSSIA              ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KGJ",
+    "p_name": "KARONGA, MALAWI",
+    "p_nation": "MALAWI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KGL",
+    "p_name": "KIGALI, RWANDA",
+    "p_nation": "RWANDA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KHH",
+    "p_name": "KAOHSIUNG, TAIWAN",
+    "p_nation": "TAIWAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KHI",
+    "p_name": "KARACHI, PAKISTAN",
+    "p_nation": "PAKISTAN",
+    "p_portno": "53550"
+  },
+  {
+    "p_id": "KHV",
+    "p_name": "KHABAROVSK, RUSSIAN FRDERATION",
+    "p_nation": "RUSSIAN FRDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KIJ",
+    "p_name": "NIGATA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KIM",
+    "p_name": "KIMBERLEY, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KIN",
+    "p_name": "KINGSTON, JAMAICA",
+    "p_nation": "JAMAICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KIV",
+    "p_name": "CHISINAU, MOLDOVA",
+    "p_nation": "MOLDOVA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KIW",
+    "p_name": "KITWE, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KJA",
+    "p_name": "KRASNOYARSK,RUSSIANFEDERSATION",
+    "p_nation": "RUSSIANFEDERSATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KKN",
+    "p_name": "KIRKENES, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KLB",
+    "p_name": "KALABO, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KLR",
+    "p_name": "KALMAR, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KLU",
+    "p_name": "KLAGENFURT, AUSTRIA",
+    "p_nation": "AUSTRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KMG",
+    "p_name": "KUNMING, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KMI",
+    "p_name": "MIYAZAKI, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KMJ",
+    "p_name": "KUMAMOTO, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KMQ",
+    "p_name": "KOMATSU, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KMZ",
+    "p_name": "KAOMA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KOE",
+    "p_name": "KUPANG, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KOJ",
+    "p_name": "KAGOSHIMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KRK",
+    "p_name": "KRAKOW, POLAND",
+    "p_nation": "POLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KRP",
+    "p_name": "KARUP, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KRS",
+    "p_name": "KRISTIANSAND, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KRT",
+    "p_name": "KHARTOUM, SUDAN",
+    "p_nation": "SUDAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KTM",
+    "p_name": "KATHMANDU, NEPAL",
+    "p_nation": "NEPAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KUA",
+    "p_name": "KUANTAN, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KUF",
+    "p_name": "SAMARA, RUSSIAN FEDERATION",
+    "p_nation": "RUSSIAN FEDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KUL",
+    "p_name": "KUALA LUMPUR, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KWI",
+    "p_name": "KUWAIT, KUWAIT",
+    "p_nation": "KUWAIT",
+    "p_portno": "51321"
+  },
+  {
+    "p_id": "KWL",
+    "p_name": "GUILIN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "KYS",
+    "p_name": "KA YES, MALI",
+    "p_nation": "MALI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LAD",
+    "p_name": "LUANDA, ANGOLA",
+    "p_nation": "ANGOLA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LAS",
+    "p_name": "LAS VEGAS, NV",
+    "p_nation": "USA",
+    "p_portno": "2722 "
+  },
+  {
+    "p_id": "LAX",
+    "p_name": "LOS ANGELES, CA",
+    "p_nation": "USA                 ",
+    "p_portno": "2720 "
+  },
+  {
+    "p_id": "LBA",
+    "p_name": "LEEDS, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LBU",
+    "p_name": "LABUAN, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LBV",
+    "p_name": "LIBREVILLE, GABON",
+    "p_nation": "GABON",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LCG",
+    "p_name": "LA CORUNA,SPAIN&CANARY ISLANDS",
+    "p_nation": "SPAIN&CANARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LED",
+    "p_name": "ST. PETERSBRG,RUSSIA",
+    "p_nation": "RUSSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LEH",
+    "p_name": "LE HAVRE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LEJ",
+    "p_name": "LEIPZIG GERMANY",
+    "p_nation": "LEIPZIG GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LEX",
+    "p_name": "LEXINGTON, KY",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LFW",
+    "p_name": "LOME, TOGO",
+    "p_nation": "TOGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LGA",
+    "p_name": "LA GUARDIA, NYC, NY",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LGB",
+    "p_name": "LONG BEACH, CA",
+    "p_nation": "USA",
+    "p_portno": "2709 "
+  },
+  {
+    "p_id": "LGK",
+    "p_name": "LANGKAWI, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LGW",
+    "p_name": "LGW",
+    "p_nation": "U.K.",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LHE",
+    "p_name": "LAHORE, PAKISTAN",
+    "p_nation": "PAKISTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LHR",
+    "p_name": "LONDON HEATHROW, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LIL",
+    "p_name": "LILLE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LIM",
+    "p_name": "LIMA, PERU",
+    "p_nation": "PERU",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LIS",
+    "p_name": "LISBON, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "47125"
+  },
+  {
+    "p_id": "LIT",
+    "p_name": "LITTLE ROCK, AR",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LJU",
+    "p_name": "LJUBLJANA, SLOVENIA",
+    "p_nation": "SLOVENIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LLW",
+    "p_name": "LILONGWE, MALAWI",
+    "p_nation": "MALAWI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LNK",
+    "p_name": "LINCOLN, NE",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LNZ",
+    "p_name": "LINZ, AUSTRIA",
+    "p_nation": "AUSTRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LON",
+    "p_name": "LONDON, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LOS",
+    "p_name": "LAGOS, NIGERIA",
+    "p_nation": "NIGERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LPA",
+    "p_name": "LAS PALMAS,SPAIN&CANARYISLANDS",
+    "p_nation": "SPAIN&CANARYISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LPB",
+    "p_name": "LA PAZ, BOLIVIA",
+    "p_nation": "BOLIVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LPL",
+    "p_name": "LIVERPOOL, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LUN",
+    "p_name": "LUSAKA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LUX",
+    "p_name": "LUXEMBOURG, LUXEMBOURG",
+    "p_nation": "LUXEMBOURG",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LVI",
+    "p_name": "LIVINGSTONE, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LXR",
+    "p_name": "LUXOR, EGYPT",
+    "p_nation": "EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LXS",
+    "p_name": "LEMNOS, GREECE",
+    "p_nation": "GREECE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LXU",
+    "p_name": "LUKULU, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "LYS",
+    "p_name": "LYON, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAA",
+    "p_name": "CHENNAI, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAD",
+    "p_name": "MADRID, SPAIN",
+    "p_nation": "SPAIN               ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAH",
+    "p_name": "MENORCA SPAIN & CANARY ISLANDS",
+    "p_nation": "MENORCA SPAIN & CANA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAN",
+    "p_name": "MANCHESTER, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAO",
+    "p_name": "MANAUS AM, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MAR",
+    "p_name": "MARACAIBO, VENEZUELA",
+    "p_nation": "VENEZUELA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MBA",
+    "p_name": "MOMBASA, KENYA",
+    "p_nation": "KENYA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MBX",
+    "p_name": "MARIBOR, SLOVENIA",
+    "p_nation": "SLOVENIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MCO",
+    "p_name": "ORLANDO, FL",
+    "p_nation": "USA",
+    "p_portno": "1808 "
+  },
+  {
+    "p_id": "MCP",
+    "p_name": "MACAPA AP, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MCT",
+    "p_name": "MUSCAT, OMAN",
+    "p_nation": "OMAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MCZ",
+    "p_name": "MACEIO AL, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MDC",
+    "p_name": "MANADO, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MDZ",
+    "p_name": "MENDOZA MD, ARGENTINA",
+    "p_nation": "ARGENTINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MED",
+    "p_name": "MADINAH, SAUDI ARABIA",
+    "p_nation": "SAUDI ARABIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MEL",
+    "p_name": "MELBOURNE VI, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MEM",
+    "p_name": "MEMPHIS, TN",
+    "p_nation": "USA",
+    "p_portno": "2006 "
+  },
+  {
+    "p_id": "MES",
+    "p_name": "MEDAN, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MEX",
+    "p_name": "MEXICO CITY, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MFM",
+    "p_name": "MACAU, MACAU",
+    "p_nation": "MACAU",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MFU",
+    "p_name": "MFUWE, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MGA",
+    "p_name": "MANAGUA, NICARAGUA",
+    "p_nation": "NICARAGUA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MGQ",
+    "p_name": "MOGADISHU, SOMALIA",
+    "p_nation": "SOMALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MHQ",
+    "p_name": "MARIEHAMN, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MIA",
+    "p_name": "MIAMI, FL",
+    "p_nation": "USA",
+    "p_portno": "5201 "
+  },
+  {
+    "p_id": "MIL",
+    "p_name": "MILAN, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MKC",
+    "p_name": "KANSAS CITY, MO",
+    "p_nation": "USA",
+    "p_portno": "4501 "
+  },
+  {
+    "p_id": "MKE",
+    "p_name": "MILWAUKEE, WI",
+    "p_nation": "USA                 ",
+    "p_portno": "3701 "
+  },
+  {
+    "p_id": "MLA",
+    "p_name": "MALTA, MALTA",
+    "p_nation": "MALTA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MLE",
+    "p_name": "MALE, MALDIVES",
+    "p_nation": "MALDIVES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MLH",
+    "p_name": "MULHOUSE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MLW",
+    "p_name": "MONROVIA, LIBERIA",
+    "p_nation": "LIBERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MMA",
+    "p_name": "MALMO, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MME",
+    "p_name": "TESSIDE, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MMQ",
+    "p_name": "MBALA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MNL",
+    "p_name": "MANILA, PHILIPPINES",
+    "p_nation": "PHILIPPINES",
+    "p_portno": "56549"
+  },
+  {
+    "p_id": "MNR",
+    "p_name": "MONGU, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MNS",
+    "p_name": "MANSA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MOB",
+    "p_name": "MOBILE, AL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MOW",
+    "p_name": "MOSCOW, RUSSIA",
+    "p_nation": "RUSSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MPM",
+    "p_name": "MAPUTO, MOZAMBIQUE",
+    "p_nation": "MOZAMBIQUE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MRS",
+    "p_name": "MARSEILLE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MRU",
+    "p_name": "MAURITIUS, MAURITIUS",
+    "p_nation": "MAURITIUS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MSP",
+    "p_name": "MINNEAPOLIS, MN",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MSQ",
+    "p_name": "MINSK, BELARUS",
+    "p_nation": "BELARUS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MST",
+    "p_name": "MAASTRICHT, NETHERLANDS",
+    "p_nation": "NETHERLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MSY",
+    "p_name": "NEW ORLEANS, LA",
+    "p_nation": "USA",
+    "p_portno": "2002 "
+  },
+  {
+    "p_id": "MTH",
+    "p_name": "MARATHON FL, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MUC",
+    "p_name": "MUNICH, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "MVD",
+    "p_name": "MONTEVIDEO, URUGUAY",
+    "p_nation": "URUGUAY",
+    "p_portno": "35525"
+  },
+  {
+    "p_id": "MYF",
+    "p_name": "SAN DIEGO, CA",
+    "p_nation": "USA",
+    "p_portno": "2501 "
+  },
+  {
+    "p_id": "MYZ",
+    "p_name": "MATSUYAMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NAN",
+    "p_name": "NADI, FUJI",
+    "p_nation": "FUJI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NAP",
+    "p_name": "NAPLES, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NAS",
+    "p_name": "NASSAU, BAHAMAS",
+    "p_nation": "BAHAMAS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NAT",
+    "p_name": "ANTAL RN, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NBO",
+    "p_name": "NAIROBI, KENYA",
+    "p_nation": "KENYA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NCE",
+    "p_name": "NICE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NCL",
+    "p_name": "NEWCASTLE, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NCY",
+    "p_name": "ANNECY, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NDJ",
+    "p_name": "NDJAMENA, CHAD",
+    "p_nation": "CHAD",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NGO",
+    "p_name": "NAGOYA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "58857"
+  },
+  {
+    "p_id": "NGS",
+    "p_name": "NAGASAKI, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NIC",
+    "p_name": "NICOSIA, CYPRUS",
+    "p_nation": "CYPRUS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NIM",
+    "p_name": "NIAMEY, NIGER",
+    "p_nation": "NIGER",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NKC",
+    "p_name": "NOUAKCHOTT, MAURITANIA",
+    "p_nation": "MAURITANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NKG",
+    "p_name": "NANJING, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NLA",
+    "p_name": "NDOLA, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NOU",
+    "p_name": "NOUMEA, NEW CALEDONIA",
+    "p_nation": "NEW CALEDONIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NQT",
+    "p_name": "NOTTINGHAM, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NRK",
+    "p_name": "NORRKOPING, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NRT",
+    "p_name": "NARITA, TOKYO, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NTE",
+    "p_name": "NANTES, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NUF",
+    "p_name": "NUREMBERG, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NWI",
+    "p_name": "NORWICH, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NYC",
+    "p_name": "NEW YORK, NY",
+    "p_nation": "USA                 ",
+    "p_portno": "4601 "
+  },
+  {
+    "p_id": "OAJ",
+    "p_name": "JACKSONVILLE, NC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OAK",
+    "p_name": "OAKLAND, CA",
+    "p_nation": "USA",
+    "p_portno": "2811 "
+  },
+  {
+    "p_id": "ODS",
+    "p_name": "ODESSA, UKRAINE",
+    "p_nation": "UKRAINE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OIT",
+    "p_name": "OITA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OKA",
+    "p_name": "OKINAWA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OKC",
+    "p_name": "OKLAHOMA CITY, OK",
+    "p_nation": "USA",
+    "p_portno": "5504 "
+  },
+  {
+    "p_id": "OKJ",
+    "p_name": "OKAYAMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OLB",
+    "p_name": "OLBIA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OMA",
+    "p_name": "OMAHA, NE",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OPO",
+    "p_name": "PORTO, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ORA",
+    "p_name": "ORAN, ALGERIA",
+    "p_nation": "ALGERIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ORD",
+    "p_name": "ORD, CHICAGO, IL",
+    "p_nation": "USA                 ",
+    "p_portno": "3901 "
+  },
+  {
+    "p_id": "ORF",
+    "p_name": "NORFOLK, VA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ORK",
+    "p_name": "CORK, IRELAND",
+    "p_nation": "IRELAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ORL",
+    "p_name": "ORLANDO, FL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OSA",
+    "p_name": "OSAKA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OSL",
+    "p_name": "OSLO, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OUA",
+    "p_name": "OUAGADOUGOU, BURKINA FASO",
+    "p_nation": "BURKINA FASO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OVB",
+    "p_name": "NOVOSIBIRSK,RUSSIAN FEDERATION",
+    "p_nation": "RUSSIAN FEDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OVD",
+    "p_name": "ASTURIAS, SPAIN&CANARY ISLANDS",
+    "p_nation": "SPAIN&CANARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "OXB",
+    "p_name": "BISSAU, GUINEA BISSAU",
+    "p_nation": "GUINEA BISSAU",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PAP",
+    "p_name": "PORT AU PRINC, HAITI",
+    "p_nation": "HAITI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PAR",
+    "p_name": "PARIS, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PBM",
+    "p_name": "PARAMARIBO, SURINAM",
+    "p_nation": "SURINAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PDG",
+    "p_name": "PADANG, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PDL",
+    "p_name": "PONTA DELGADA, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PDX",
+    "p_name": "PORTLAND, OR",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PEN",
+    "p_name": "PENANG, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "55735"
+  },
+  {
+    "p_id": "PER",
+    "p_name": "PERTH WA, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PHF",
+    "p_name": "NEWPORT NE, VA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PHL",
+    "p_name": "PHILADELPHIA, PA",
+    "p_nation": "USA",
+    "p_portno": "1101 "
+  },
+  {
+    "p_id": "PHX",
+    "p_name": "PHOENIX, AZ",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PIA",
+    "p_name": "PEORIA, IL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PIT",
+    "p_name": "PITTSBURGH, PA",
+    "p_nation": "USA",
+    "p_portno": "1104 "
+  },
+  {
+    "p_id": "PLH",
+    "p_name": "PLYMOUTH, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PLM",
+    "p_name": "PALEMBANG, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PLZ",
+    "p_name": "PT ELIZABETH, S.AFRICA",
+    "p_nation": "S.AFRICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PMA",
+    "p_name": "PEMBA, TANZANIA",
+    "p_nation": "TANZANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PMC",
+    "p_name": "PUERTO MONTT, CHILE",
+    "p_nation": "CHILE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PMI",
+    "p_name": "PALMAMALLORC,SPAIN&CANARYISLAN",
+    "p_nation": "SPAIN&CANARYISLAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PMO",
+    "p_name": "PALERMO, TIALY",
+    "p_nation": "TIALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PNH",
+    "p_name": "PHNOM PENH, CAMBODIA",
+    "p_nation": "CAMBODIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PNK",
+    "p_name": "PONTIANAK, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PNL",
+    "p_name": "PANTELLERIA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "POA",
+    "p_name": "PTO ALEGRE RS, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "POM",
+    "p_name": "PORT MORESBY, PAPUA NEW GUINEA",
+    "p_nation": "PAPUA NEW GUINEA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "POR",
+    "p_name": "PORTLAND PORT",
+    "p_nation": "PORTLAND PORT",
+    "p_portno": "60261"
+  },
+  {
+    "p_id": "POS",
+    "p_name": "PORT OF OPAIN, TRINIDAD&TOBAGO",
+    "p_nation": "TRINIDAD&TOBAGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PPG",
+    "p_name": "PAGO PAGO, AMERICAN SAMOA",
+    "p_nation": "AMERICAN SAMOA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PPT",
+    "p_name": "PAPEETE, FRANCE POLYNESIA",
+    "p_nation": "FRANCE POLYNESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PRG",
+    "p_name": "PRAGUE, CZECH REPUBLIC",
+    "p_nation": "CZECH REPUBLIC",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PSD",
+    "p_name": "PORT SAID, EGYPT",
+    "p_nation": "EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PSP",
+    "p_name": "PALMSPRIN, CA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PSR",
+    "p_name": "PESCARA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PTP",
+    "p_name": "POINTE A PITR, GUADELOUPE",
+    "p_nation": "GUADELOUPE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PTY",
+    "p_name": "PANAMA CITY, PANAMA",
+    "p_nation": "PANAMA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PUQ",
+    "p_name": "PUNTA ARENAS, CHILE",
+    "p_nation": "CHILE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PUS",
+    "p_name": "BUSAN,  KOREA",
+    "p_nation": "KOREA",
+    "p_portno": "58023"
+  },
+  {
+    "p_id": "PVD",
+    "p_name": "PROVIDENCE, RI",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PVH",
+    "p_name": "PTO VELHO RO, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PXO",
+    "p_name": "PORTO SANTO, PORTOGAL",
+    "p_nation": "PORTOGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PZU",
+    "p_name": "PORT SUDAN, SUDAN",
+    "p_nation": "SUDAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RAR",
+    "p_name": "RAROTONGA, COOK ISLAND",
+    "p_nation": "COOK ISLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RBR",
+    "p_name": "RIO BRANCO AC, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RDU",
+    "p_name": "RALEIGH, NC",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "REC",
+    "p_name": "RECIFE PE, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "REG",
+    "p_name": "REGGIO CALAB, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "REX",
+    "p_name": "REYNOSA, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RGN",
+    "p_name": "YANGON, MYANMAR",
+    "p_nation": "MYANMAR",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RIC",
+    "p_name": "RICHMOND, VA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RIO",
+    "p_name": "RIO DE JAMEIRO,BRAZI",
+    "p_nation": "BRAZI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RIX",
+    "p_name": "RIGA, LATVIA",
+    "p_nation": "LATVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RJK",
+    "p_name": "RIJEKA, CROATIA",
+    "p_nation": "CROATIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RKT",
+    "p_name": "PAS AL KHAIMA",
+    "p_nation": "PAS AL KHAIMA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RLG",
+    "p_name": "ROSTOCK.LAAGE DE, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RMI",
+    "p_name": "RIMINI, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RNO",
+    "p_name": "RENO, NV",
+    "p_nation": "USA",
+    "p_portno": "2833 "
+  },
+  {
+    "p_id": "ROC",
+    "p_name": "ROCHESTER, NY",
+    "p_nation": "USA",
+    "p_portno": "0903 "
+  },
+  {
+    "p_id": "ROM",
+    "p_name": "ROME, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RTM",
+    "p_name": "ROTTERDAM, HOLLAND",
+    "p_nation": "HOLLAND",
+    "p_portno": "42157"
+  },
+  {
+    "p_id": "RUH",
+    "p_name": "RIYADH, SAUDI ARABIA",
+    "p_nation": "SAUDI ARABIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "RUN",
+    "p_name": "ST DENIS, REUNION",
+    "p_nation": "REUNION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAC",
+    "p_name": "SACRAMENTO, CA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAH",
+    "p_name": "SANAA, YEMEN",
+    "p_nation": "YEMEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAL",
+    "p_name": "SAN SALVADOR,EL SALV",
+    "p_nation": "EL SALV",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAN",
+    "p_name": "SAN DIEGO, CA",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAO",
+    "p_name": "SAO PAULO, BRAZIL",
+    "p_nation": "BRAZIL              ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SAT",
+    "p_name": "SAN ANTONIO, TX",
+    "p_nation": "USA",
+    "p_portno": "33779"
+  },
+  {
+    "p_id": "SAV",
+    "p_name": "SAVANNAH, GA",
+    "p_nation": "USA",
+    "p_portno": "1703 "
+  },
+  {
+    "p_id": "SBW",
+    "p_name": "SIBU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SCL",
+    "p_name": "SANTIAGO, CHILE",
+    "p_nation": "CHILE",
+    "p_portno": "33776"
+  },
+  {
+    "p_id": "SCN",
+    "p_name": "SAARBRUCKEN, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SCQ",
+    "p_name": "SANTIAGOCOMP,SPAIN&CANARYISLAN",
+    "p_nation": "SPAIN&CANARYISLAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SDF",
+    "p_name": "LOUISVILLE, KY",
+    "p_nation": "USA",
+    "p_portno": "4115 "
+  },
+  {
+    "p_id": "SDJ",
+    "p_name": "SENDAI, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SDK",
+    "p_name": "SANDAKAN, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SDQ",
+    "p_name": "SANTO DOMINGO,DOMI.R",
+    "p_nation": "DOMI.R",
+    "p_portno": "24737"
+  },
+  {
+    "p_id": "SEA",
+    "p_name": "SEATLLE, WA",
+    "p_nation": "USA",
+    "p_portno": "3001 "
+  },
+  {
+    "p_id": "SEL",
+    "p_name": "KIMPO AIRPORT",
+    "p_nation": "KIMPO AIRPORT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SEZ",
+    "p_name": "MAHEIS, SEYCHELLES",
+    "p_nation": "SEYCHELLES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SFO",
+    "p_name": "SAN FRANCISCO, CA",
+    "p_nation": "USA",
+    "p_portno": "2809 "
+  },
+  {
+    "p_id": "SFS",
+    "p_name": "SUBIC, PHILIPINES",
+    "p_nation": "PHILIPINES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SGD",
+    "p_name": "SONDERBORG, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SGN",
+    "p_name": "HOCHIMINH CITY,VIETNAM",
+    "p_nation": "VIETNAM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SHA",
+    "p_name": "SHANGHAI, CHINA",
+    "p_nation": "CHINA(MAINLAND)",
+    "p_portno": "57035"
+  },
+  {
+    "p_id": "SHE",
+    "p_name": "SHENYANG, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SHJ",
+    "p_name": "SHARJAH, UNITED ARAB EMIRATES",
+    "p_nation": "UNITED ARAB EMIRATES",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SIA",
+    "p_name": "XI AN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SIN",
+    "p_name": "SINGAPORE, SINGAPORE",
+    "p_nation": "SINGAPORE",
+    "p_portno": "55976"
+  },
+  {
+    "p_id": "SJC",
+    "p_name": "SAN JOSE, COSTA RICA",
+    "p_nation": "COSTA RICA",
+    "p_portno": "20577"
+  },
+  {
+    "p_id": "SJJ",
+    "p_name": "SARAJEVO, BOSNIA & HERZEGOVINA",
+    "p_nation": "BOSNIA & HERZEGOVINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SJO",
+    "p_name": "SAN JOSE, COSTA RICA",
+    "p_nation": "COSTA RICA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SJQ",
+    "p_name": "SESHEKE, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SJU",
+    "p_name": "SAN JUAN,PUERTO RICO",
+    "p_nation": "PUERTO RICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SKP",
+    "p_name": "SKOPJE, MACEDONIA",
+    "p_nation": "MACEDONIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SKS",
+    "p_name": "VOJENS, DENMARK",
+    "p_nation": "DENMARK",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SLC",
+    "p_name": "SALT LAKE CITY, UT",
+    "p_nation": "USA",
+    "p_portno": "3303 "
+  },
+  {
+    "p_id": "SLI",
+    "p_name": "SOLWEZI, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SLZ",
+    "p_name": "SAO LUIZ MA, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SNN",
+    "p_name": "SHANNON, IRELAND",
+    "p_nation": "IRAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SOF",
+    "p_name": "SOFIA, BULGARIA",
+    "p_nation": "BULGARIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SON",
+    "p_name": "ESPIRITU SANT, VANUATU",
+    "p_nation": "VANUATU",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SOU",
+    "p_name": "SOUTHAMPTON, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SPK",
+    "p_name": "SAPPORO, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SPN",
+    "p_name": "SAIPAN, NOTHERN MARIANA ISLAND",
+    "p_nation": "NOTHERN MARIANA ISLA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SPU",
+    "p_name": "SPLIT, CROATIA",
+    "p_nation": "CROATIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SRG",
+    "p_name": "SEMARANG, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SSA",
+    "p_name": "SALVADOR BA, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SSG",
+    "p_name": "MALABO, EQUATORIALG UNIEA",
+    "p_nation": "EQUATORIALG UNIEA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SSH",
+    "p_name": "SHARM E SHEIK EGYPT",
+    "p_nation": "SHARM E SHEIK EGYPT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "STL",
+    "p_name": "ST.LOUIS, MO",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "STM",
+    "p_name": "SANTAREM PA, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "STO",
+    "p_name": "STOCKHOLM, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "40179"
+  },
+  {
+    "p_id": "STR",
+    "p_name": "STUTTGART, GERMANY",
+    "p_nation": "GERMANY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SUB",
+    "p_name": "SURABAYA, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SUV",
+    "p_name": "SUVA, FIJI",
+    "p_nation": "FIJI",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SVG",
+    "p_name": "STAVANGER, NORWAY",
+    "p_nation": "NORWAY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SVQ",
+    "p_name": "SEVILLE, SPAIN & CANARY ISLAND",
+    "p_nation": "SPAIN & CANARY ISLAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SXB",
+    "p_name": "STRASBOURG, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SXG",
+    "p_name": "SENANGA, SAMBIA",
+    "p_nation": "SAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SYD",
+    "p_name": "SYDNEY, AUSTRALIA",
+    "p_nation": "AUSTRALIA",
+    "p_portno": "60267"
+  },
+  {
+    "p_id": "SYR",
+    "p_name": "SYRACUSE, NY",
+    "p_nation": "USA",
+    "p_portno": "0906 "
+  },
+  {
+    "p_id": "SYX",
+    "p_name": "SANYA, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SYY",
+    "p_name": "STORNOWAY, UK",
+    "p_nation": "UNITED KINGDOM",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SZG",
+    "p_name": "SALZBRUG, AUSTRIA",
+    "p_nation": "AUSTRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SZX",
+    "p_name": "SHENZHEN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SZZ",
+    "p_name": "SZCZECIN, POLAND",
+    "p_nation": "POLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TAB",
+    "p_name": "TRINIDAD, TRINIDAD&TOBAGO",
+    "p_nation": "TRINIDAD&TOBAGO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TAC",
+    "p_name": "TACOMA, WA",
+    "p_nation": "USA",
+    "p_portno": "3002 "
+  },
+  {
+    "p_id": "TAK",
+    "p_name": "TAKAMATSU, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TAO",
+    "p_name": "QINGDAO, CHINA",
+    "p_nation": "CHINA(MAINLAND)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TAS",
+    "p_name": "TASHKENT, UZBEKISTAN",
+    "p_nation": "UZBEKISTAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TBS",
+    "p_name": "TBILISI, GEORGIA",
+    "p_nation": "GEORGIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TCI",
+    "p_name": "TENERIFE, SPAIN & CANARYISLAND",
+    "p_nation": "SPAIN & CANARYISLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TCL",
+    "p_name": "TUSCALOOSA, AL",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TER",
+    "p_name": "TERCEIRA IS, PORTUGAL",
+    "p_nation": "PORTUGAL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TGD",
+    "p_name": "PODGORICA, YUGOSLAVIA",
+    "p_nation": "YUGOSLAVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TGU",
+    "p_name": "TEGUCIGALPA, HONDURAS",
+    "p_nation": "HONDURAS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "THE",
+    "p_name": "TERESINA PI, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "THR",
+    "p_name": "TEHRAN, IRAN",
+    "p_nation": "IRAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TIA",
+    "p_name": "TIRANA, ALBANIA",
+    "p_nation": "ALBANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TIJ",
+    "p_name": "TIJUANA, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TIP",
+    "p_name": "TRIPOLI, LIBYA",
+    "p_nation": "LIBYA",
+    "p_portno": "72525"
+  },
+  {
+    "p_id": "TIV",
+    "p_name": "TIVAT, YUGOSLAVIA",
+    "p_nation": "YUGOSLAVIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TKU",
+    "p_name": "TURKU, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TLL",
+    "p_name": "TALLINN, ESTONIA",
+    "p_nation": "ESTONIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TLS",
+    "p_name": "TOULOUSE, FRANCE",
+    "p_nation": "FRANCE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TLV",
+    "p_name": "TEL AVIV, ISRAEL",
+    "p_nation": "ISRAEL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TMP",
+    "p_name": "TAMPERE, FINLAND",
+    "p_nation": "FINLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TMS",
+    "p_name": "SAO TOME IS, SAO TOME&PRINCIPE",
+    "p_nation": "SAO TOME&PRINCIPE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TNA",
+    "p_name": "JINAN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TNG",
+    "p_name": "TANGIER, MOROCCO",
+    "p_nation": "MOROCCO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TNR",
+    "p_name": "ANTANANARIVO, MADAGASCAR",
+    "p_nation": "MADAGASCAR",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TOL",
+    "p_name": "TOLEDO, OH",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TOY",
+    "p_name": "TOYAMA, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TPA",
+    "p_name": "TAMPA, FL",
+    "p_nation": "USA",
+    "p_portno": "1801 "
+  },
+  {
+    "p_id": "TPE",
+    "p_name": "TAIPEI, TAIWAN",
+    "p_nation": "TAIWAN",
+    "p_portno": "58304"
+  },
+  {
+    "p_id": "TPS",
+    "p_name": "TRAPANI, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TRC",
+    "p_name": "TORREON, MEXICO",
+    "p_nation": "MEXICO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TRN",
+    "p_name": "TURIN, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TRS",
+    "p_name": "TRIESTE, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TSN",
+    "p_name": "TIANJIN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TTN",
+    "p_name": "TRENTON, NJ",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TUL",
+    "p_name": "TULSA, OK",
+    "p_nation": "USA",
+    "p_portno": "5505 "
+  },
+  {
+    "p_id": "TUN",
+    "p_name": "TUNIS, TUNISIA",
+    "p_nation": "TUNISIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TUS",
+    "p_name": "TUCSON, AZ",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TWU",
+    "p_name": "TAWAU, MALAYSIA",
+    "p_nation": "MALAYSIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TYO",
+    "p_name": "TOKYO, JAPAN",
+    "p_nation": "JAPAN",
+    "p_portno": "58886"
+  },
+  {
+    "p_id": "TYS",
+    "p_name": "KNOXVILLE,TN",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "UIO",
+    "p_name": "QUITO, ECUADOR",
+    "p_nation": "ECUADOR",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ULN",
+    "p_name": "ULAANBAATAR, MONGOLIA",
+    "p_nation": "MONGOLIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "UPG",
+    "p_name": "UJUNG PANDANG, INDONESIA",
+    "p_nation": "INDONESIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "UUS",
+    "p_name": "YUZHNO-SAKHAL,RUSSIANFEDRATION",
+    "p_nation": "RUSSIANFEDRATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VCE",
+    "p_name": "VENICE, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VCP",
+    "p_name": "VIRACOPOS, SAO PAULO",
+    "p_nation": "SAO PAULO",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VGO",
+    "p_name": "VIGO, SPAIN",
+    "p_nation": "SPAIN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VIE",
+    "p_name": "VIENNA, AUSTRIA",
+    "p_nation": "AUSTRIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VIT",
+    "p_name": "VITORIA, SPAIN&CANARY ISLANDS",
+    "p_nation": "SPAIN&CANARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VIX",
+    "p_name": "VITORIA ES, BRAZIL",
+    "p_nation": "BRAZIL",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VLC",
+    "p_name": "VALENCIA, SPAIN&CANARY ISLANDS",
+    "p_nation": "SPAIN&CANARY ISLANDS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VLI",
+    "p_name": "PORT VILA, VANUATU",
+    "p_nation": "VANUATU",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VNO",
+    "p_name": "VILNIUS, LITHUANIA",
+    "p_nation": "LITHUANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VNS",
+    "p_name": "VARNNASI, INDIA",
+    "p_nation": "INDIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VRN",
+    "p_name": "VERONA, ITALY",
+    "p_nation": "ITALY",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VST",
+    "p_name": "VASTERAS, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VTE",
+    "p_name": "VIENTIANE,LAO PEOPLE",
+    "p_nation": "LAO PEOPLE",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VVO",
+    "p_name": "VLADIVOSTOK, RUSSIANPEDERATION",
+    "p_nation": "RUSSIANPEDERATION",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "VXO",
+    "p_name": "VAXJO, SWEDEN",
+    "p_nation": "SWEDEN",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "WAS",
+    "p_name": "WASHINGTON,DC",
+    "p_nation": "USA",
+    "p_portno": "5401 "
+  },
+  {
+    "p_id": "WAW",
+    "p_name": "WARSAW, POLAND",
+    "p_nation": "POLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "WDH",
+    "p_name": "WINDHOEK, NAMBIA",
+    "p_nation": "NAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "WIL",
+    "p_name": "WILMINGTON PORT",
+    "p_nation": "WILMINGTON PORT",
+    "p_portno": "1501 "
+  },
+  {
+    "p_id": "WLG",
+    "p_name": "WELLINGTON, NEWZEALAND",
+    "p_nation": "NEWZEALAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "WUH",
+    "p_name": "WUHAN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "XMN",
+    "p_name": "XIAMEN, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "57069"
+  },
+  {
+    "p_id": "YAO",
+    "p_name": "YAOUNDE, CAMEROON",
+    "p_nation": "CAMEROON",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YAQ",
+    "p_name": "SAN JUAN, ARGENTINA",
+    "p_nation": "ARGENTINA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YEA",
+    "p_name": "EDMONTON, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YHZ",
+    "p_name": "HALIFAX NS, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YIP",
+    "p_name": "WILLOW RUN, DETROIT",
+    "p_nation": "DETROIT",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YMQ",
+    "p_name": "MONTREAL, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "01822"
+  },
+  {
+    "p_id": "YNT",
+    "p_name": "YANTAI, CHINA",
+    "p_nation": "CHINA",
+    "p_portno": "57055"
+  },
+  {
+    "p_id": "YOW",
+    "p_name": "OTTAWA, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "07238"
+  },
+  {
+    "p_id": "YQB",
+    "p_name": "QUEBEC, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "14094"
+  },
+  {
+    "p_id": "YQG",
+    "p_name": "WINDSOR OT, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YQU",
+    "p_name": "GRANDE PR AL, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YTO",
+    "p_name": "TORONTO QT, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YUL",
+    "p_name": "MONTREAL,DORV,CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YVA",
+    "p_name": "MORONI, COMOROS",
+    "p_nation": "COMOROS",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YVR",
+    "p_name": "VANCOUVER, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "12493"
+  },
+  {
+    "p_id": "YWG",
+    "p_name": "WINNIPEG MN, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YXU",
+    "p_name": "LONDON OT, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YYC",
+    "p_name": "CALGARY, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YYE",
+    "p_name": "FT NELSON BC, DANADA",
+    "p_nation": "DANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YYJ",
+    "p_name": "VICTORIA BC, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZAD",
+    "p_name": "ZADAR, CROATIA",
+    "p_nation": "CROATIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZAG",
+    "p_name": "ZAGREB, CROATIA",
+    "p_nation": "CROATIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZAZ",
+    "p_name": "ZARAGOZA, SPAIN&CANARYISLAND",
+    "p_nation": "SPAIN&CANARYISLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZBF",
+    "p_name": "BATHURST NB, CANADA",
+    "p_nation": "CANADA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZKB",
+    "p_name": "KASABA BAY, ZAMBIA",
+    "p_nation": "ZAMBIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZNZ",
+    "p_name": "ZANZIBAR, TANZANIA",
+    "p_nation": "TANZANIA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ZRH",
+    "p_name": "ZURICH, SWITZLAND",
+    "p_nation": "SWITZLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "ARN",
+    "p_name": "Stockholm",
+    "p_nation": "Stockholm",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CDG",
+    "p_name": "Paris De Gaulle",
+    "p_nation": "Paris De Gaulle",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CGK",
+    "p_name": "Jakarta",
+    "p_nation": "Jakarta",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DCA",
+    "p_name": "Washington D.C.",
+    "p_nation": "USA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "DTW",
+    "p_name": "Dtroit. Mich",
+    "p_nation": "Dtroit. Mich",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "FCO",
+    "p_name": "Rome",
+    "p_nation": "Rome",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "SVO",
+    "p_name": "Sheremoiyevo",
+    "p_nation": "Sheremoiyevo",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "TXL",
+    "p_name": "Berlin",
+    "p_nation": "Berlin",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YYZ",
+    "p_name": "Toronto",
+    "p_nation": "Toronto",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "CTB",
+    "p_name": "CRISTOBAL",
+    "p_nation": "PANAMA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "YTN",
+    "p_name": "YANTIAN",
+    "p_nation": "CHINA (MAINLAND)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "BLB",
+    "p_name": "BALBOA",
+    "p_nation": "PANAMA",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "PVG",
+    "p_name": "PUDONG, SHANGHAI AIRPORT",
+    "p_nation": "CHINA (MAINLAND)",
+    "p_portno": "57035"
+  },
+  {
+    "p_id": "PEK",
+    "p_name": "BEIJING, P.R. CHINA",
+    "p_nation": "CHINA (MAINLAND)",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "WRO",
+    "p_name": "WROCLAW",
+    "p_nation": "POLAND",
+    "p_portno": "     "
+  },
+  {
+    "p_id": "NIN",
+    "p_name": "NINGBO                        ",
+    "p_nation": "CHINA(MAINLAND)     ",
+    "p_portno": "     "
+  },
+  {
+    "p_id": null,
+    "p_name": null,
+    "p_nation": null,
+    "p_portno": null
+  }
+]

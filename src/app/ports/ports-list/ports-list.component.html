@@ -1,0 +1,7 @@
+<h3>Ports List</h3>
+
+<div class="shipping-item" *ngFor="let port of portsList | async">
+  <span>{{ port.p_id }}</span>
+  <span>{{ port.p_name }}</span>
+  <span>{{ port.p_nation }}</span>
+</div>
