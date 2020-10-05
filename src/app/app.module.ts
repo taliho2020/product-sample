@@ -14,6 +14,9 @@ import { ShippingComponent } from './shipping/shipping/shipping.component';
 import { CustomerDetailComponent } from './customer/customer-detail/customer-detail.component';
 import { PortsListComponent } from './ports/ports-list/ports-list.component';
 import { CarrierDetailComponent } from './carriers/carrier-detail/carrier-detail.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HttpGitComponent } from './http/http-git/http-git.component';
+import { MaterialModule } from './material/material.module';
 
 @NgModule({
   declarations: [
@@ -27,6 +30,7 @@ import { CarrierDetailComponent } from './carriers/carrier-detail/carrier-detail
     CustomerDetailComponent,
     PortsListComponent,
     CarrierDetailComponent,
+    HttpGitComponent,
   ],
   imports: [
     BrowserModule,
@@ -34,6 +38,8 @@ import { CarrierDetailComponent } from './carriers/carrier-detail/carrier-detail
     FormsModule,
     ReactiveFormsModule,
     AppRoutingModule,
+    BrowserAnimationsModule,
+    MaterialModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

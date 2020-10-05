@@ -1,7 +1,46 @@
-<h3>Carriers</h3>
+<h3>Carriers List</h3>
 
-<div class="shipping-item" *ngFor="let carrier of carriersList | async">
+<!-- <div class="shipping-item" *ngFor="let carrier of carriersList | async">
   <span>{{ carrier.C_CODE }}</span>
   <span>{{ carrier.C_MODE }}</span>
   <span>{{ carrier.C_NAME }}</span>
+</div> -->
+
+<mat-form-field>
+  <mat-label>Filter</mat-label>
+  <input matInput (keyup)="applyFilter($event)" placeholder="Filter" #input />
+</mat-form-field>
+
+<div class="mat-elevation-z8">
+  <table mat-table [dataSource]="carriersList" matSort>
+    <!--- Note that these columns can be defined in any order.
+          The actual rendered columns are set as a property on the row definition" -->
+
+    <!-- Position Column -->
+    <ng-container matColumnDef="carrierCode">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header>Carrier Code</th>
+      <td mat-cell *matCellDef="let element">{{ element.C_CODE }}</td>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="C_NAME">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header>Carrier Name</th>
+      <td mat-cell *matCellDef="let element">{{ element.C_NAME }}</td>
+    </ng-container>
+
+    <!-- Weight Column -->
+    <ng-container matColumnDef="C_MODE">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header>Carrier MODE</th>
+      <td mat-cell *matCellDef="let element">{{ element.C_MODE }}</td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+
+  <mat-paginator
+    [pageSizeOptions]="[5, 10, 20]"
+    [pageSize]="20"
+    showFirstLastButtons
+  ></mat-paginator>
 </div>
