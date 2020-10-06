@@ -13,10 +13,10 @@ body {
   margin: 0;
 }
 
-.container {
-  display: flex;
-  flex-direction: row;
-}
+// .container {
+//   display: flex;
+//   flex-direction: row;
+// }
 
 router-outlet+* {
   padding: 0 16px;
@@ -141,5 +141,12 @@ app-top-bar h1 {
   background-color: #EEEEEE;
 }
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
