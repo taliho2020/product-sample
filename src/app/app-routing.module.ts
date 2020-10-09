@@ -4,6 +4,7 @@ import { CarrierDetailComponent } from './carriers/carrier-detail/carrier-detail
 import { CartComponent } from './cart/cart/cart.component';
 import { CustomerDetailComponent } from './customer/customer-detail/customer-detail.component';
 import { HttpGitComponent } from './http/http-git/http-git.component';
+import { LoginComponent } from './login/login.component';
 import { PortsListComponent } from './ports/ports-list/ports-list.component';
 import { ProductDetailsComponent } from './product-details/product-details/product-details.component';
 import { ProductListComponent } from './product-list/product-list/product-list.component';
@@ -18,6 +19,7 @@ const routes: Routes = [
   { path: 'ports', component: PortsListComponent },
   { path: 'carriers', component: CarrierDetailComponent },
   { path: 'httpGit', component: HttpGitComponent },
+  { path: 'login', component: LoginComponent },
 ];
 
 @NgModule({

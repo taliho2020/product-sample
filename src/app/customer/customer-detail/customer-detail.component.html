@@ -1,6 +1,8 @@
 <form
   [formGroup]="customerDetailForm"
   (ngSubmit)="onSubmit(customerDetailForm.value)"
+  fxLayout="column"
+  fxLayoutAlign="start center"
 >
   <div>
     <label for="name"> Name </label>
