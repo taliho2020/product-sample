@@ -19,6 +19,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpGitComponent } from './http/http-git/http-git.component';
 import { MaterialModule } from './material/material.module';
 import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { LoginComponent } from './login/login.component';
     CarrierDetailComponent,
     HttpGitComponent,
     LoginComponent,
+    RegisterComponent,
   ],
   imports: [
     BrowserModule,

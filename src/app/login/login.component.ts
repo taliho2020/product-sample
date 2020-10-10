@@ -1,15 +1,55 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { NgForm } from '@angular/forms';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { AuthService } from '../services/auth.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
-  styleUrls: ['./login.component.scss']
+  styleUrls: ['./login.component.scss'],
 })
 export class LoginComponent implements OnInit {
+  @ViewChild('loginform', { static: false }) loginForm: NgForm;
 
-  constructor() { }
+  constructor(
+    private http: HttpClient,
+    private authService: AuthService,
+    private router: Router
+  ) {}
 
-  ngOnInit(): void {
+  onLoginSubmit() {
+    const username = this.loginForm.value.username;
+    const password = this.loginForm.value.password;
+
+    const headers = new HttpHeaders({ 'Content-type': 'application/json' });
+
+    const reqObject = {
+      username,
+      password,
+    };
+
+    this.http
+      .post('http://localhost:3000/users/login', reqObject, { headers })
+      .subscribe(
+        // The response data
+        (response) => {
+          // If the user authenticates successfully, we need to store the JWT returned in localStorage
+          this.authService.setLocalStorage(response);
+        },
+
+        // If there is an error
+        (error) => {
+          console.log(error);
+        },
+
+        // When observable completes
+        () => {
+          console.log('done!');
+          this.router.navigate(['protected']);
+        }
+      );
   }
 
+  ngOnInit(): void {}
 }

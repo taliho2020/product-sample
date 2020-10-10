@@ -5,7 +5,7 @@ import { MatTableDataSource } from '@angular/material/table';
 import { merge, Observable, of as observableOf } from 'rxjs';
 import { catchError, map, startWith, switchMap } from 'rxjs/operators';
 
-import { CartService } from '../../cart.service';
+import { CartService } from '../../services/cart.service';
 import { CarriersInterface } from '../../carriersInterface';
 
 @Component({
